@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Current Stack: <br>📚 Telecommunications and computer systems.<br>🎯 Goals: Grow in knowledge about backend y DevOps<br>🎲 Fun fact: videogames, Sports.</p>
+<p align="left"><br>📚 Telecommunications and computer systems.<br>🎯 Goals: Grow in knowledge about backend y DevOps<br>🎲 Fun fact: videogames, Sports.</p>
 
 ###
 
